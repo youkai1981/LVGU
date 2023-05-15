@@ -36,10 +36,10 @@ chmod 777 ~/fisco/nodes/127.0.0.1/fisco-bcos
 
 cd ~/fisco && bash nodes/127.0.0.1/start_all.sh
 
-echo "-------------------------------以为lvgu部署合约MyDeposits--------------------------------------"
-echo "transaction hash: 0x16dbb01eb5e04aedddd3191ed504077f50113ea6252231ae367c2384646e0f87"
-echo "contract address: 0x08cf96bcd0f1de7e00cd2c8ab3f6c7f8d28b008c"
-echo "currentAccount: 0xf5eaba15967aca0064e08e47756f7aabbb645177"
+echo "-------------------------------以为LVGU部署合约MyDeposits--------------------------------------"
+echo "transaction hash: 0xe0ec314cbce3dc80674d9bdb54efea9cf83a4b23842c253df9ff22a32d451c92"
+echo "contract address: 0xaa3d8d31becc8a8a48fe01e39cd351aa2416fe7e"
+echo "currentAccount: 0xa8838135853f2aee5bd0f81c31b5761b49eb927a"
 
 read -p "请记录contract address,按任意键继续！"
 
